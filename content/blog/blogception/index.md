@@ -93,7 +93,7 @@ const GlobalStyle = createGlobalStyle`
 
 An important thing to note here is the importing of the font files (without this it wont work). Then in our render method we just add `<GlobalStyle />` (I added it after our main element.)
 
-And there we go! our own font is not being used in the project 💃
+And there we go! Our own font is now being used in the project 💃
 
 Now we are going to add a featured image to each of our posts. Within our blog content directory we are going to add a featured image into each folder (alongside your index.md files), for now let’s call it featured-image.jpeg. We are then gonna add it to our frontmatter in our markdown file e.g:
 
