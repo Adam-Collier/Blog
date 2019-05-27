@@ -1,6 +1,6 @@
 ---
 title: Creating a Masonry Layout using CSS Grid
-date: "2019-05-26"
+date: "2019-05-26T00:00:00.000Z"
 featuredImage: "./featured-image.png"
 ---
 

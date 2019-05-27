@@ -1,6 +1,6 @@
 ---
 title: Blogception
-date: "2019-27-05"
+date: "2019-05-27T00:00:00.000Z"
 featuredImage: "./featured-image.jpg"
 ---
 
@@ -89,7 +89,6 @@ const GlobalStyle = createGlobalStyle`
     url(${PublicSansSemiBold}) format("woff2");
 }
 `
-view raw
 ```
 
 An important thing to note here is the importing of the font files (without this it wont work). Then in our render method we just add `<GlobalStyle />` (I added it after our main element.)
