@@ -211,4 +211,5 @@ pre.line-numbers > code {
   overflow: initial;
   float: left; /* 1 */
   min-width: 100%; /* 2 */
+  padding-right: 1.5rem;
 }
