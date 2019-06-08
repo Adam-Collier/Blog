@@ -1,6 +1,7 @@
 {
   "version": 2,
-  "name": "my-blog",
+  "name": "Design Dev Repeat",
+  "alias": "designdevrepeat",
   "builds": [
     {
       "src": "package.json",
