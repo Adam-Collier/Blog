@@ -13,7 +13,7 @@ const PostTitle = styled.h3`
 
   a {
     text-decoration: none;
-    color: #296eca;
+    color: #6a42ed;
     box-shadow: none;
   }
 `
@@ -87,7 +87,6 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            description
           }
         }
       }

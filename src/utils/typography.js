@@ -3,6 +3,7 @@ import Typography from "typography"
 const typography = new Typography({
   baseFontSize: "18px",
   baseLineHeight: 1.666,
+  scaleRatio: 1.6,
   headerFontFamily: ["Public-sans"],
   bodyFontFamily: ["Public-sans"],
   overrideThemeStyles: ({ rhythm }, options, styles) => ({
@@ -13,7 +14,7 @@ const typography = new Typography({
       fontKerning: "auto",
     },
     a: {
-      color: "#296eca",
+      color: "#6a42ed",
     },
   }),
 })
