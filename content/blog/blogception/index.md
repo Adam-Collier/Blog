@@ -45,7 +45,7 @@ const typography = new Typography({
       fontKerning: "auto",
     },
     a: {
-      color: "#296eca",
+      color: "#6a42ed",
     },
   }),
 })
